@@ -1,0 +1,3 @@
+# Place your PDF file here as "product.pdf"
+# This folder should NOT be publicly accessible
+# The PDF will be served securely through the download endpoint
