@@ -5,7 +5,7 @@
 export const PACKAGE_PRICING = {
   '1': { 
     pdfCount: 1, 
-    price: 1,  //30
+    price: 30,  //30
     title: 'Single PDF Package',
     secureFileName: 'package1.pdf', // PDF with 500 HR emails
     emailCount: 500
