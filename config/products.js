@@ -107,8 +107,8 @@ export const PACKAGE_PRICING = {
     title: 'Premium PDF Package',
     secureFileName: 'package4.pdf', // PDF with 2500 HR emails
     emailCount: 2500,
-    couponCode: 'HELLOBIT', 
-    couponDiscount: 20,
+    couponCode: 'ARYAN', 
+    couponDiscount: 50,
     // Secret coupon for specific people
     secretCouponCode: 'ARYAN',
     secretCouponDiscount: 50  // This makes final price 29 (79 - 50)
